@@ -6,11 +6,11 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: 天府二街绿地
+city: 四川
+state: 成都
+zip_code: 610000
+country: 中国
 phone: (716) 555-5555
 
 # Homepage tiles
