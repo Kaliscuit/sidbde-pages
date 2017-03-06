@@ -1,7 +1,7 @@
 # Site settings
 title: 十一典
-subtitle: 
-email: 
+subtitle: 装饰
+email: aaabbb@ccc.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/sidbde-pages" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
