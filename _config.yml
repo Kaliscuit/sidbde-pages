@@ -1,17 +1,17 @@
 # Site settings
-title: 十一典
-subtitle: 装饰
+title: 四川十一典
+subtitle: 建筑装饰工程有限公司
 email: contact@sidbde.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 天府二街绿地
+street_address: 高新区天府二街368号绿地之窗2号楼1513室
 city: 四川
 state: 成都
-zip_code: 610000
+zip_code: 610041
 country: 中国
-phone: (028) 5555-5555
+phone: (028) 87318868
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
